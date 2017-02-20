@@ -21,6 +21,12 @@ start(run())
 
 ### Requirements
 
+Environment - python 3.5 ( It can be on python 2.7 but be careful in calculation of integer and float type. )<br>
+개발환경 - python 3.5 ( python 2.7 에서도 실행 가능하나 정수와 실수형 계산에 주의해야합니다. )
+```
+python 3.5
+```
+
 Libraries<br>
 필요한 라이브러리입니다.
 
