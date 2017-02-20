@@ -1,0 +1,661 @@
+Recorded at: 2017-02-18_10:24:43
+
+-----------------------------------------------
+
+Noise Ratio : 1.0
+
+Alpha : 1
+Beta  : 1000
+
+Alpha/Beta : 0.001
+
+Style layers & weights
+('conv1_1', 0.2)
+('conv2_1', 0.2)
+('conv3_1', 0.2)
+('conv4_1', 0.2)
+('conv5_1', 0.2)
+
+Content layers & weights
+('conv4_2', 1.0)
+
+Iteratioln : 5000
+
+-----------------------------------------------
+
+Iteration 0
+sum : -14960.7
+cost: 9.86117e+10
+
+Iteration 1
+sum : -32706.5
+cost: 9.1521e+10
+
+Iteration 2
+sum : -48854.9
+cost: 8.58735e+10
+
+Iteration 3
+sum : -61565.4
+cost: 8.14476e+10
+
+Iteration 4
+sum : -70821.7
+cost: 7.75047e+10
+
+Iteration 5
+sum : -77613.4
+cost: 7.4185e+10
+
+Iteration 6
+sum : -82942.7
+cost: 7.14726e+10
+
+Iteration 7
+sum : -87433.9
+cost: 6.90751e+10
+
+Iteration 8
+sum : -91029.9
+cost: 6.68554e+10
+
+Iteration 9
+sum : -93448.0
+cost: 6.47762e+10
+
+Iteration 10
+sum : -94542.4
+cost: 6.28016e+10
+
+Iteration 15
+sum : -85221.6
+cost: 5.43384e+10
+
+Iteration 20
+sum : -71089.0
+cost: 4.7324e+10
+
+Iteration 25
+sum : -59320.5
+cost: 4.11279e+10
+
+Iteration 30
+sum : -48764.9
+cost: 3.5813e+10
+
+Iteration 35
+sum : -30180.0
+cost: 3.16521e+10
+
+Iteration 40
+sum : 5779.26
+cost: 2.87293e+10
+
+Iteration 45
+sum : 62346.9
+cost: 2.66342e+10
+
+Iteration 50
+sum : 133492.0
+cost: 2.50864e+10
+
+Iteration 55
+sum : 213197.0
+cost: 2.39224e+10
+
+Iteration 60
+sum : 298145.0
+cost: 2.30223e+10
+
+Iteration 65
+sum : 385812.0
+cost: 2.23033e+10
+
+Iteration 70
+sum : 475795.0
+cost: 2.1716e+10
+
+Iteration 75
+sum : 568067.0
+cost: 2.12235e+10
+
+Iteration 80
+sum : 662130.0
+cost: 2.08014e+10
+
+Iteration 85
+sum : 757622.0
+cost: 2.04342e+10
+
+Iteration 90
+sum : 854000.0
+cost: 2.01089e+10
+
+Iteration 95
+sum : 951401.0
+cost: 1.98197e+10
+
+Iteration 100
+sum : 1.05009e+06
+cost: 1.95589e+10
+
+Iteration 110
+sum : 1.25019e+06
+cost: 1.91037e+10
+
+Iteration 120
+sum : 1.45355e+06
+cost: 1.87127e+10
+
+Iteration 130
+sum : 1.6603e+06
+cost: 1.83633e+10
+
+Iteration 140
+sum : 1.87039e+06
+cost: 1.80464e+10
+
+Iteration 150
+sum : 2.0835e+06
+cost: 1.77577e+10
+
+Iteration 160
+sum : 2.29872e+06
+cost: 1.74953e+10
+
+Iteration 170
+sum : 2.51403e+06
+cost: 1.72587e+10
+
+Iteration 180
+sum : 2.72951e+06
+cost: 1.70438e+10
+
+Iteration 190
+sum : 2.94496e+06
+cost: 1.68484e+10
+
+Iteration 200
+sum : 3.15926e+06
+cost: 1.66699e+10
+
+Iteration 210
+sum : 3.37306e+06
+cost: 1.65064e+10
+
+Iteration 220
+sum : 3.58594e+06
+cost: 1.63558e+10
+
+Iteration 230
+sum : 3.79726e+06
+cost: 1.62158e+10
+
+Iteration 240
+sum : 4.00817e+06
+cost: 1.60844e+10
+
+Iteration 250
+sum : 4.21791e+06
+cost: 1.5961e+10
+
+Iteration 260
+sum : 4.42583e+06
+cost: 1.58426e+10
+
+Iteration 270
+sum : 4.63286e+06
+cost: 1.57291e+10
+
+Iteration 280
+sum : 4.83913e+06
+cost: 1.56236e+10
+
+Iteration 290
+sum : 5.04408e+06
+cost: 1.55384e+10
+
+Iteration 300
+sum : 5.24764e+06
+cost: 1.54833e+10
+
+Iteration 310
+sum : 5.44756e+06
+cost: 1.53702e+10
+
+Iteration 320
+sum : 5.64459e+06
+cost: 1.52735e+10
+
+Iteration 330
+sum : 5.8372e+06
+cost: 1.51766e+10
+
+Iteration 340
+sum : 6.02761e+06
+cost: 1.51141e+10
+
+Iteration 350
+sum : 6.21315e+06
+cost: 1.50611e+10
+
+Iteration 360
+sum : 6.39178e+06
+cost: 1.49669e+10
+
+Iteration 370
+sum : 6.56624e+06
+cost: 1.48928e+10
+
+Iteration 380
+sum : 6.73714e+06
+cost: 1.48286e+10
+
+Iteration 390
+sum : 6.90566e+06
+cost: 1.48154e+10
+
+Iteration 400
+sum : 7.07321e+06
+cost: 1.4997e+10
+
+Iteration 410
+sum : 7.23093e+06
+cost: 1.48848e+10
+
+Iteration 420
+sum : 7.37663e+06
+cost: 1.46987e+10
+
+Iteration 430
+sum : 7.5195e+06
+cost: 1.46232e+10
+
+Iteration 440
+sum : 7.66158e+06
+cost: 1.45894e+10
+
+Iteration 450
+sum : 7.7997e+06
+cost: 1.45181e+10
+
+Iteration 460
+sum : 7.93465e+06
+cost: 1.45478e+10
+
+Iteration 470
+sum : 8.06338e+06
+cost: 1.4484e+10
+
+Iteration 480
+sum : 8.18632e+06
+cost: 1.44332e+10
+
+Iteration 490
+sum : 8.30413e+06
+cost: 1.44204e+10
+
+Iteration 500
+sum : 8.41932e+06
+cost: 1.44102e+10
+
+Iteration 510
+sum : 8.52941e+06
+cost: 1.43203e+10
+
+Iteration 520
+sum : 8.63529e+06
+cost: 1.43028e+10
+
+Iteration 530
+sum : 8.73832e+06
+cost: 1.42468e+10
+
+Iteration 540
+sum : 8.83857e+06
+cost: 1.43075e+10
+
+Iteration 550
+sum : 8.93359e+06
+cost: 1.44068e+10
+
+Iteration 560
+sum : 9.02117e+06
+cost: 1.43731e+10
+
+Iteration 570
+sum : 9.10025e+06
+cost: 1.42084e+10
+
+Iteration 580
+sum : 9.17609e+06
+cost: 1.41417e+10
+
+Iteration 590
+sum : 9.2511e+06
+cost: 1.41258e+10
+
+Iteration 600
+sum : 9.32542e+06
+cost: 1.41199e+10
+
+Iteration 610
+sum : 9.3937e+06
+cost: 1.40826e+10
+
+Iteration 620
+sum : 9.46036e+06
+cost: 1.41189e+10
+
+Iteration 630
+sum : 9.52575e+06
+cost: 1.41744e+10
+
+Iteration 640
+sum : 9.5859e+06
+cost: 1.41746e+10
+
+Iteration 650
+sum : 9.64343e+06
+cost: 1.41114e+10
+
+Iteration 660
+sum : 9.69612e+06
+cost: 1.40617e+10
+
+Iteration 670
+sum : 9.74924e+06
+cost: 1.40133e+10
+
+Iteration 680
+sum : 9.80032e+06
+cost: 1.40327e+10
+
+Iteration 690
+sum : 9.84884e+06
+cost: 1.40219e+10
+
+Iteration 700
+sum : 9.89475e+06
+cost: 1.39821e+10
+
+Iteration 710
+sum : 9.93853e+06
+cost: 1.39819e+10
+
+Iteration 720
+sum : 9.98093e+06
+cost: 1.39969e+10
+
+Iteration 730
+sum : 1.00202e+07
+cost: 1.39701e+10
+
+Iteration 740
+sum : 1.00595e+07
+cost: 1.39423e+10
+
+Iteration 750
+sum : 1.00972e+07
+cost: 1.39435e+10
+
+Iteration 760
+sum : 1.01347e+07
+cost: 1.39812e+10
+
+Iteration 770
+sum : 1.0169e+07
+cost: 1.39442e+10
+
+Iteration 780
+sum : 1.02019e+07
+cost: 1.39551e+10
+
+Iteration 790
+sum : 1.02339e+07
+cost: 1.39232e+10
+
+Iteration 800
+sum : 1.02638e+07
+cost: 1.3889e+10
+
+Iteration 810
+sum : 1.02916e+07
+cost: 1.38943e+10
+
+Iteration 820
+sum : 1.03182e+07
+cost: 1.38739e+10
+
+Iteration 830
+sum : 1.0343e+07
+cost: 1.38683e+10
+
+Iteration 840
+sum : 1.03683e+07
+cost: 1.3877e+10
+
+Iteration 850
+sum : 1.0393e+07
+cost: 1.38798e+10
+
+Iteration 860
+sum : 1.04175e+07
+cost: 1.38806e+10
+
+Iteration 870
+sum : 1.04416e+07
+cost: 1.38866e+10
+
+Iteration 880
+sum : 1.04633e+07
+cost: 1.3844e+10
+
+Iteration 890
+sum : 1.04841e+07
+cost: 1.38376e+10
+
+Iteration 900
+sum : 1.05032e+07
+cost: 1.38275e+10
+
+Iteration 910
+sum : 1.05216e+07
+cost: 1.38508e+10
+
+Iteration 920
+sum : 1.05402e+07
+cost: 1.3834e+10
+
+Iteration 930
+sum : 1.05581e+07
+cost: 1.38227e+10
+
+Iteration 940
+sum : 1.0575e+07
+cost: 1.38177e+10
+
+Iteration 950
+sum : 1.05909e+07
+cost: 1.38335e+10
+
+Iteration 960
+sum : 1.06072e+07
+cost: 1.38104e+10
+
+Iteration 970
+sum : 1.06225e+07
+cost: 1.38091e+10
+
+Iteration 980
+sum : 1.0638e+07
+cost: 1.38026e+10
+
+Iteration 990
+sum : 1.06525e+07
+cost: 1.38166e+10
+
+Iteration 1000
+sum : 1.06673e+07
+cost: 1.38143e+10
+
+Iteration 1100
+sum : 1.08127e+07
+cost: 1.37672e+10
+
+Iteration 1200
+sum : 1.08864e+07
+cost: 1.37501e+10
+
+Iteration 1300
+sum : 1.09387e+07
+cost: 1.37345e+10
+
+Iteration 1400
+sum : 1.09768e+07
+cost: 1.37215e+10
+
+Iteration 1500
+sum : 1.10165e+07
+cost: 1.41501e+10
+
+Iteration 1600
+sum : 1.10502e+07
+cost: 1.37042e+10
+
+Iteration 1700
+sum : 1.10634e+07
+cost: 1.36996e+10
+
+Iteration 1800
+sum : 1.10855e+07
+cost: 1.38594e+10
+
+Iteration 1900
+sum : 1.11e+07
+cost: 1.36797e+10
+
+Iteration 2000
+sum : 1.10923e+07
+cost: 1.36733e+10
+
+Iteration 2100
+sum : 1.10917e+07
+cost: 1.36651e+10
+
+Iteration 2200
+sum : 1.10958e+07
+cost: 1.37181e+10
+
+Iteration 2300
+sum : 1.11232e+07
+cost: 1.3656e+10
+
+Iteration 2400
+sum : 1.11096e+07
+cost: 1.36529e+10
+
+Iteration 2500
+sum : 1.11064e+07
+cost: 1.36492e+10
+
+Iteration 2600
+sum : 1.10985e+07
+cost: 1.36635e+10
+
+Iteration 2700
+sum : 1.10998e+07
+cost: 1.3702e+10
+
+Iteration 2800
+sum : 1.11141e+07
+cost: 1.36405e+10
+
+Iteration 2900
+sum : 1.11032e+07
+cost: 1.36353e+10
+
+Iteration 3000
+sum : 1.10975e+07
+cost: 1.36339e+10
+
+Iteration 3100
+sum : 1.10941e+07
+cost: 1.36609e+10
+
+Iteration 3200
+sum : 1.11168e+07
+cost: 1.37003e+10
+
+Iteration 3300
+sum : 1.11043e+07
+cost: 1.36286e+10
+
+Iteration 3400
+sum : 1.10927e+07
+cost: 1.36315e+10
+
+Iteration 3500
+sum : 1.10856e+07
+cost: 1.36219e+10
+
+Iteration 3600
+sum : 1.10803e+07
+cost: 1.36318e+10
+
+Iteration 3700
+sum : 1.10758e+07
+cost: 1.36399e+10
+
+Iteration 3800
+sum : 1.11043e+07
+cost: 1.3641e+10
+
+Iteration 3900
+sum : 1.10887e+07
+cost: 1.36123e+10
+
+Iteration 4000
+sum : 1.10764e+07
+cost: 1.36136e+10
+
+Iteration 4100
+sum : 1.10717e+07
+cost: 1.36945e+10
+
+Iteration 4200
+sum : 1.10922e+07
+cost: 1.36268e+10
+
+Iteration 4300
+sum : 1.10792e+07
+cost: 1.36159e+10
+
+Iteration 4400
+sum : 1.1071e+07
+cost: 1.36088e+10
+
+Iteration 4500
+sum : 1.10661e+07
+cost: 1.36143e+10
+
+Iteration 4600
+sum : 1.10671e+07
+cost: 1.36717e+10
+
+Iteration 4700
+sum : 1.10928e+07
+cost: 1.36101e+10
+
+Iteration 4800
+sum : 1.10787e+07
+cost: 1.36035e+10
+
+Iteration 4900
+sum : 1.10708e+07
+cost: 1.36233e+10
+
+Iteration 5000
+sum : 1.10669e+07
+cost: 1.36012e+10
+
