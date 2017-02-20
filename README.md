@@ -1,88 +1,54 @@
-# Project Title
+# Image Style Transfer
 
-One Paragraph of project description goes here
+Implementation of paper "Image Style Transfer Using Convolutional Neural Networks" [PAPER](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+
+"Image Style Transfer Using Convolutional Neural Networks" 논문의 구현코드입니다. [PAPER](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Image Style Transfer Only
+Image Style Transfer 만 실행시킬 경우
+```
+run()
+```
 
-### Prerequisites
+Image Style transfer & make the result gif format
+Image Style transfer 실행 후 결과를 gif 형식으로 만들 경우
+```
+start(run())
+```
 
-What things you need to install the software and how to install them
+
+### Requirements
+
+Libraries
+필요한 라이브러리입니다.
+
 
 ```
-Give examples
+tensorflow
+images2gif (optional for gif)
 ```
+
+Model for CNN (trained by ImageNet VGG-19) [DOWNLOAD](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat)
+학습된 CNN을 이용하기 위해 ImageNet VGG-19 모델파일이 필요합니다. [DOWNLOAD](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat)
+
+
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+Edit <b>input & output image settings</b> and <b>Hyperparameter </b> in code.
+code 내부의 image input output 경로와 hyperparameter 값을 변경합니다.
 
-Say what the step will be
+**TODO**
+get image path & hyperparameter using parser (python option)
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Lee KyoungMin** - *Initial work* - [lafamila](https://github.com/lafamila/lafamila)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-
