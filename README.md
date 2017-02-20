@@ -6,13 +6,13 @@ Implementation of paper "Image Style Transfer Using Convolutional Neural Network
 
 ## Getting Started
 
-Image Style Transfer Only
+Image Style Transfer Only<br>
 Image Style Transfer 만 실행시킬 경우
 ```
 run()
 ```
 
-Image Style transfer & make the result gif format
+Image Style transfer & make the result gif format<br>
 Image Style transfer 실행 후 결과를 gif 형식으로 만들 경우
 ```
 start(run())
@@ -21,7 +21,7 @@ start(run())
 
 ### Requirements
 
-Libraries
+Libraries<br>
 필요한 라이브러리입니다.
 
 
@@ -30,17 +30,17 @@ tensorflow
 images2gif (optional for gif)
 ```
 
-Model for CNN (trained by ImageNet VGG-19) [DOWNLOAD](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat)
-학습된 CNN을 이용하기 위해 ImageNet VGG-19 모델파일이 필요합니다. [DOWNLOAD](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat)
+Model for CNN (trained by ImageNet VGG-19) [DOWNLOAD](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat)<br>
+학습된 CNN을 이용하기 위해 ImageNet VGG-19 모델파일이 필요합니다. [DOWNLOAD](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat)<br>
 
 
 
 ### Installing
 
-Edit <b>input & output image settings</b> and <b>Hyperparameter </b> in code.
-code 내부의 image input output 경로와 hyperparameter 값을 변경합니다.
+Edit <b>input & output image settings</b> and <b>Hyperparameter </b> in code.<br>
+code 내부의 image input output 경로와 hyperparameter 값을 변경합니다.<br><br>
 
-**TODO**
+**TODO**<br>
 get image path & hyperparameter using parser (python option)
 
 
