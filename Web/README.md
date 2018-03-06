@@ -10,7 +10,7 @@ php, SQL 과 같은 Back-end 에 대해 배울 수 있습니다.
 
 Server 와 Client 란 무엇일까요?
 
-![Image](./IMAGES/Client&Server.png)
+![Image](./IMAGES/Client&Server.png)<br/>
 [출처] https://stackoverflow.com/questions/13121531/multi-client-server-common-way-for-2-way-connection-in
 
 
@@ -92,7 +92,8 @@ Server의 역할도 조금 감이 잡히셨나요?
 
 Server는 Client와는 달리 과정을 눈으로 볼 수 없어서 감이 조금 덜 잡힐수도 있어요. 그래서 Server를 더 어렵게 여기는 경우가 많아요!<br/>
 실제로 Client와 Server를 눈에 보이는 부분과 보이지 않는 부분이라는 의미에서 <b>Front-end</b> 와 <b>Back-end</b> 라고 표현하기도 합니다!
-![Image](./IMAGES/FrontBack.png)
+
+![Image](./IMAGES/FrontBack.png)<br/>
 [출처]https://comic.browserling.com/
 
 역시 앞으로 수업을 통해 <b>'많은 정보가 저장된 곳'</b> 이란 무엇인지, <b>다양한 요청과 데이터를 어떻게 처리해서 어떻게 응답할지</b> 에 대해 배울거에요 :D<br/>
